@@ -55,7 +55,8 @@ cd seu-repositorio
 
 🗺️ Diagrama do Banco de Dados
 
-![Image](https://github.com/user-attachments/assets/c64bb1e8-83a3-4b89-8840-f79badcf69bd)
+![image](https://github.com/user-attachments/assets/416510fb-436a-4011-ad4a-9071b309af69)
+
 
 
 ✅ Requisitos Atendidos
