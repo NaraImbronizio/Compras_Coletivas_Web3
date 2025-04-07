@@ -1,4 +1,4 @@
-# Compras_Coletivas_Web3
+# Sistema de Compras Coletivas
 Projeto desenvolvido para a disciplina de Web III utilizando o framework Laravel.
 O objetivo é organizar compras coletivas realizadas por moradores de um grupo, gerenciando pedidos, produtos e pagamentos.
 
